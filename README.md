@@ -12,6 +12,13 @@ This project integrates multiple pretrained models to achieve dynamic question f
 - **T5**: A transformer model used for generating questions based on extracted keywords and their contextual meanings.
 - **Sense2Vec**: For generating multi-word keyword distractors, enhancing the complexity and engagement of generated questions.
 
+## Proposed System Diagram
+
+The following diagram illustrates the proposed system architecture for dynamic question formulation:
+
+![Proposed System Diagram](./flow_model.png)
+
+
 ## Getting Started
 
 ### Prerequisites
