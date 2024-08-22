@@ -30,7 +30,7 @@ To run the project, you'll need:
    ```
 
 2. **Access the Colab Notebook**:
-   - Open the [Google Colab notebook](./colab_notebooks/Educational_Interactivity_AI.ipynb) in your browser.
+   - Open the [Google Colab notebook](https://colab.research.google.com/github/Shiva-C-qwerty/Educational-Interactivity-AI/blob/main/QuestGen.ipynb) in your browser.
 
 3. **Follow the Sections in the Notebook**:
    - The notebook is divided into sections for each of the models and tasks:
